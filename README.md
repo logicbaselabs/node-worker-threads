@@ -1,10 +1,10 @@
-# 🚀 Next.js Crash Course — Learn with Sumit
+# 🚀 Node.js Worker Threads Tutorial - Multithreading in Practice — logicBase labs
 
 Welcome to the official source code repository for the **Node.js Worker Threads Tutorial - Multithreading in Practice** on [YouTube](https://youtube.com/@logicBaseLabs). This video tutorial is designed to help you boost backend performance with Node.js worker_threads. Offload CPU-heavy work from the main thread, build an Express demo, use Promise.all to merge results, and scale across CPU cores—no blocking, faster responses. A clear, practical guide for backend JS devs.
 
 🎬 **Watch the full tutorial:**
 👉 [Node.js Worker Threads Tutorial - Multithreading in Practice Tutorial on YouTube](https://youtu.be/JTl6tQ4bqYA)
-[![Watch the video](https://img.youtube.com/vi/O5TJYsqwR94/maxresdefault.jpg)](https://youtu.be/JTl6tQ4bqYA)
+[![Watch the video](https://img.youtube.com/vi/JTl6tQ4bqYA/maxresdefault.jpg)](https://youtu.be/JTl6tQ4bqYA)
 
 ---
 
